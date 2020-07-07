@@ -1,0 +1,4 @@
+1. Edit database by adding a reconciliation_figures tables
+2. plu column shud be to 1 decimal place and not 2. in the following 
+   forms: stock taking, sales, purchases sheet,
+3. damages should also be viewed per product. only yr and month is given

@@ -1,0 +1,641 @@
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\Interop.ExcelTranslator.dll
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidDamagesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsOutForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidDamagesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsOutForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+C:\Users\Umali JN Leonard\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\GenerateResource.read.2.tlog
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+D:\JN.INFO\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+D:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+I:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+I:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+I:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+I:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+I:\PROJECTS\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+D:\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+D:\Projects\InventoryManagementSystem - Copy\InventoryManagementSystem\bin\Debug\ims.mdb
+D:\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\ims.mdb
+D:\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\ims.mdb
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\martha\Documents\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\martha\Documents\UMALI JN LEONARD\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+C:\Users\ASUS\OneDrive\CLIENTS\Pa-manna\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NotActiveSuppliersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NotActiveSuppliersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\Old-but-updated\InventoryManagementSystem\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.ResolveComReference.cache
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.xml
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.pdb
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.application
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.xml
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddCashPurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AddSuppliesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.AnalysisReportsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CashPurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePasswordForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ChangePriceForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseDayForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.CloseMonthForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.DamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductCategoryForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditProductForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditPurchasesCashForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSalesRecordForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditStockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditSupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditUserForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterReconciliationFigureForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.HomeForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MakeSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ManageUsersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MDIManager.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthEndForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.MonthlySummariesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.Resources.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewDamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductCategoryForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewProductForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NewSupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NotActiveSuppliersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.NoticeBoardForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PaySupplierForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PLUReportForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.POForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PriceChangesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.RAForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationFiguresForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReconciliationNotesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsInForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ReturnsOutForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesRecordsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EnterStockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SalesSummaryReportForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SettingsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.StockTakingForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.SuppliersForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.EditDamagesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidReturnsInForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSalesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidSaleTransactionForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.VoidStockForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductCategoriesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.ProductsForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.PurchasesForm.resources
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.exe.manifest
+C:\Users\MWAMVANI\Documents\UMALI JN LEONARD\PA-MANNA\IMS-PAMANNA - 2020-0707\InventoryManagementSystem\obj\x86\Debug\InventoryManagementSystem.application

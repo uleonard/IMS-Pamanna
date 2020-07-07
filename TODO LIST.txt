@@ -1,0 +1,7 @@
+TODO
+1.   Implement year report that shows all products with their bala bd, damages, returns, bala bf, etc.
+     The report is calculated by selecting one product and aggregate and put it in datagrid and then go to the next product,
+2.   implemetation database backup process
+3.   Users
+4.   change the icons
+5.   deploy the system
